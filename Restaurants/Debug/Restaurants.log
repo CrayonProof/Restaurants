@@ -1,2 +1,3 @@
 ﻿  Restaurants.cpp
+c:\users\micky\source\repos\restaurants\restaurants\restaurants.cpp(30): warning C4018: '<': signed/unsigned mismatch
   Restaurants.vcxproj -> C:\Users\micky\source\repos\Restaurants\Debug\Restaurants.exe
